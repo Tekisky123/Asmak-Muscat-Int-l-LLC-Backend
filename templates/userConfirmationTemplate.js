@@ -52,15 +52,13 @@ const userConfirmationTemplate = (name, subject) => `
         margin-top: 10px;
         padding: 12px 20px;
         background-color: #1e87c8;
-        color: #ffffff;
+        color: white;
         border-radius: 8px;
         text-decoration: none;
         font-weight: bold;
         transition: background-color 0.3s ease;
       }
-      .contact-button:hover {
-        background-color: #67b26f;
-      }
+     
       .website-link {
         color: #1e87c8;
         text-decoration: none;

@@ -62,7 +62,7 @@ const adminNotificationTemplate = (name, email, subject, message) => `
           padding: 12px 25px;
           margin-top: 20px;
           background-color:  #1e87c8;
-          color: #fff;
+          color: white;
           border-radius: 8px;
           text-decoration: none;
           font-weight: bold;
